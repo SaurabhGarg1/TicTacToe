@@ -1,13 +1,18 @@
 .App {
-  text-align: center;
+    text-align: center;
+    padding: 5px;
+    margin: 50px auto 30px auto;
+    height: 450px;
+    width: 550px;
+    border: 5px solid black;
 }
 
 .gridStyle {
-  width: 300px;
-      height: 50px;
-      border: 5px solid green;
-      padding: 5px;
-      margin: 5px;
-      float: left;
-      text-align: center;
+    width: 153px;
+    height: 40px;
+    border: 5px solid lightseagreen;
+    padding: 5px;
+    margin: 5px;
+    float: left;
+    text-align: center;
 }

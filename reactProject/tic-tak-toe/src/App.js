@@ -5,9 +5,8 @@ import Grid from './grid.jsx';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-            <Grid/>
-          );
+      <div>
+        <Grid/>
       </div>
     );
   }
