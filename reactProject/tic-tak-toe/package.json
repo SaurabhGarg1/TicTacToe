@@ -6,8 +6,12 @@
     "react-scripts": "0.8.4"
   },
   "dependencies": {
+    "flux": "^3.1.2",
+    "object-assign": "^4.1.0",
     "react": "^15.4.1",
-    "react-dom": "^15.4.1"
+    "react-dom": "^15.4.1",
+    "react-redux": "^5.0.1",
+    "redux": "^3.6.0"
   },
   "scripts": {
     "start": "react-scripts start",
